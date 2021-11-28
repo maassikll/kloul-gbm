@@ -1,0 +1,12 @@
+.bg-dark {
+    background-color: #3481a5!important;
+    
+}
+body{
+    background-color: #fafafa!important;
+}
+.navbar-brand{
+    text-decoration:underline;
+    width: 30px;
+    height:27px;
+}
